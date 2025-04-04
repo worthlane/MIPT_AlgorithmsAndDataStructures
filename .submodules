@@ -1,0 +1,6 @@
+[submodule "Sem2"]
+	path = Sem2
+	url = https://github.com/worthlane/AlgoLabs
+[submodule "Sem3"]
+	path = Sem3
+	url = https://github.com/worthlane/AlgorithmsSem3
