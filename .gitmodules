@@ -1,0 +1,6 @@
+[submodule "Semester2"]
+	path = Semester2
+	url = https://github.com/worthlane/AlgoLabs
+[submodule "Semester3"]
+	path = Semester3
+	url = https://github.com/worthlane/AlgorithmsSem3
